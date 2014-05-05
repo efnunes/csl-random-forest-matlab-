@@ -22,3 +22,7 @@ TestLabels  - Corresponding testing labels.
 Other parameters in the file can be changed according to the need.
 
 Please let me know before any major changes.
+
+To RUN the code:
+
+The main matlab script is "cslforest_supervised.m"
